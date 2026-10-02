@@ -16,4 +16,4 @@ Copie a pasta para o diretório de skills do ambiente utilizado e invoque `congr
 
 ## Origem e atribuição
 
-Esta versão foi desenvolvida pela Congrega com base conceitual em [KaueTartari/agency-pricing-ops](https://github.com/KaueTartari/agency-pricing-ops), distribuído sob CC BY 4.0. A adaptação amplia o escopo para PMEs e incorpora regras de governança, confidencialidade e responsabilidade decisória próprias da Congrega.
+Esta versão foi desenvolvida pela Congrega Consultoria e treinamento , distribuído sob CC BY 4.0. A adaptação amplia o escopo para PMEs e incorpora regras de governança, na precificação 
